@@ -1,0 +1,31 @@
+EF-150
+
+Thrust and mass flow rates
+------------------------------------------
+   Chamber thrust (vac):    0.17952     kN
+ Specific impulse (vac):  253.48159      s
+   Chamber thrust (opt):    0.14904     kN
+ Specific impulse (opt):  210.44368      s
+   Total mass flow rate:    0.07222   kg/s
+Oxidizer mass flow rate:    0.04396   kg/s
+    Fuel mass flow rate:    0.02826   kg/s
+
+Geometry of thrust chamber with parabolic nozzle
+------------------------------------------
+    Dc =   73.71  mm       b =   30.00 deg
+    R2 =  109.76  mm      R1 =    9.30  mm
+    L* = 5721.38  mm
+    Lc =  200.00  mm    Lcyl =  115.00  mm
+    Dt =   12.40  mm
+    Rn =    2.37  mm      Tn =   13.28 deg
+    Le =   17.91  mm      Te =    8.00 deg
+    De =   19.26  mm
+ Ae/At =    2.41    
+ Le/Dt =    1.44    
+Le/c15  =  136.66 % (relative to length of cone nozzle with Te=15 deg)
+
+  Mass =   -8.76  kg
+
+  Divergence efficiency:    0.99157       
+        Drag efficiency:    0.96223       
+     Thrust coefficient:    1.48610  (vac)
